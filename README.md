@@ -38,6 +38,7 @@ MAX-бот для работы с достижениями и документа
 - `russian_root_ca.cer` — корневой сертификат.
 - `Russian_Trusted_Sub_CA.cer` — промежуточный сертификат.
 - `Russian_Trusted_Sub_CA_2024.cer` — промежуточный сертификат.
+- `max-achievements-bot.tar` — Готовый Docker-образ бота.
 
 ## Требования
 
